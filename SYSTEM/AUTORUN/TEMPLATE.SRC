@@ -1,7 +1,0 @@
-// Here place the desired item scripts you want to add in the Addon.
-// Make sure they refer to existing files and directories.
-// Example: 
-	//	"TEMPLATE/NEWITEMS.d" (because there's a directory called TEMPLATE which may contain the script)
-	// or 
-	//	"NEWITEMS/ARMORS.d" (if the directory with the files is named NEWITEMS)
-// Without quotations of course.
